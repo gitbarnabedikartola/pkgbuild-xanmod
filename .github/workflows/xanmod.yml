@@ -1,4 +1,4 @@
-name: BigLinux-Build-Package
+name: BigLinux Build XanMod
 
 # Controls when the workflow will run
 on:
